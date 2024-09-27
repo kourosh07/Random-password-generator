@@ -1,0 +1,83 @@
+body {
+  background-color: #f9f9f9;
+  font-family: "Roboto", sans-serif;
+  background-color: #fa8bff;
+  background-image: linear-gradient(
+    45deg,
+    #fa8bff 0%,
+    #2bd2ff 52%,
+    #2bff88 90%
+  );
+  height: 100vh;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 50px;
+  font-family: monospace;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px black;
+  padding: 15px;
+}
+
+#app {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px black;
+}
+
+.password {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+label {
+  font-weight: 400;
+  font-family: cursive;
+}
+
+input[type="number"],
+input[type="checkbox"] {
+  margin-right: 10px;
+  padding: 5px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+button#generate-btn {
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  width: 100%;
+  margin-top: 10px;
+}
+
+button#generate-btn:hover {
+  background-color: #3498db;
+}
