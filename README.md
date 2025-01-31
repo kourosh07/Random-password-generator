@@ -7,3 +7,5 @@ A simple and user-friendly web page for generating secure random passwords.
 - Generate passwords between **4 to 32** characters in length
 - Secure and completely random password generation
 - Easy-to-use interface for quick password creation
+
+### 🖼 Demo
