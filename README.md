@@ -12,10 +12,3 @@ A simple and user-friendly web page for generating secure random passwords.
 
 ![Random Password Generator Screenshot](https://github.com/kourosh07/Random-password-generator/blob/main/Capture.PNG)
 
-### 🎨 Additional Features
-
-- **Four Stylish Fonts**: Choose from four unique fonts to enhance your text.
-- **Easy to Use**: Simply enter your text and select a font.
-- **Instant Results**: View your transformed text in real-time.
-
-### 🌟 Try it now and enhance your text with TextEditor Bot! 🚀🎉
