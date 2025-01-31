@@ -11,3 +11,5 @@ A simple and user-friendly web page for generating secure random passwords.
 ### 🖼 Demo
 
 ![Random Password Generator Screenshot](https://github.com/kourosh07/Random-password-generator/blob/main/Capture.PNG)
+
+### 🎨 Additional Features
